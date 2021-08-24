@@ -47,11 +47,11 @@
 
 
 [website]: https://it-courses.co.ua
-[twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Flinducdcd&screen_name=linducdcd
-[youtube]: https://www.youtube.com/channel/UCXacl-7wsi6yC7txKgrw5ng?sub_confirmation=1
-[linkedin]: https://linkedin.com/in/linducdcd
-[github]: https://github.com/lind-ucdcd
-[instagram]: https://www.instagram.com/linducdcd
-[facebook]: https://www.facebook.com/linducdcd
-[medium]: https://medium.com/@linducdcd
-[email]: mailto:info@it-courses.co.ua
+[twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Famddreza&screen_name=amddreza
+[youtube]: https://www.instagram.com/amdrezaa
+[linkedin]: https://linkedin.com/in/amddreza
+[github]: https://github.com/amdreza
+[instagram]: https://www.instagram.com/amdrezaa
+[facebook]: https://www.facebook.com/amdreza
+[medium]: https://medium.com/@amddreza
+[email]: mailto:amddreza@it-courses.co.ua
